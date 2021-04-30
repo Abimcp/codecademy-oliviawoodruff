@@ -4,3 +4,7 @@ Project from Codecademy to use CSS visual rules to create rule sets and improve 
 ## Running the Project
 
 Simply open the index.html file in your favourite web browser.
+
+## Deployment
+
+Deployed using Netlify at https://codecademy-oliviawoodruff.netlify.app/ 
